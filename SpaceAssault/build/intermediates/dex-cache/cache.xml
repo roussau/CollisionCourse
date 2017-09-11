@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/arek/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_43c4c5c277518af4ef8196ed95a2bc6f3d4c6638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/.android/build-cache/f3e60c521197b6e6c228a469701a8c8cfe9df549/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/classes_2ecba0651ef5353d6bb1d6ca947466ee5be20f36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/.android/build-cache/32caad1fb33fb3376f93c7e993ffa629aec446ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/classes_26ef4fc94e276fd0b2955a8bb63d438676f5686b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/.android/build-cache/2847508d719ec3b6803eae1d530d0f0b1e669bf3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/classes_222a2f6a2a50bbcf57d96ea6c543377248f64cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/.android/build-cache/98d1a0884b71e83bc40162533a5b30cb4d1ce43f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/classes_4f91e4af51d14ba842c240dd5dae347935982002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/.android/build-cache/1a90eb8306de58880d821ca70cf1c34eaa708574/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/classes_bb7d7dd1b18d96d1b500a87b1c8d2745637c0e04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/.android/build-cache/c3e4d7b4e697c926a9e72e2d97f4b075c28d2ee6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/classes_a7c4b7420b8458889ac6cecfc277a1a69d1f5a26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/.android/build-cache/eb1734e615cb86b1703b06148f68e09f4cbe8896/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/classes_6995ab27bc8410e62018b60b5fcf70170d7e0450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/.android/build-cache/6dfe76892378343dfa5e5274fa435f01be64907d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/classes_a11662ada57e4129cec69486a42a559ed7913a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_fe0f11448b5022d0843f774b8bd770676688f495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/.android/build-cache/16c034de2e1674bb85a5be61d7c33c4ecf758417/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/classes_e7530a57176cca3bd993c304a81c1957c239b1b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arek/.android/build-cache/3a11dcc911bea2de1df4f46062a08ca10b872f82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/arek/AndroidStudioProjects/SpaceAssault/app/build/intermediates/pre-dexed/debug/classes_dbfe399e595b1e43e0ff07b5c48293a6e126c853.jar" />
+    </item>
+
+</items>

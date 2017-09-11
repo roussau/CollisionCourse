@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CollisionCourse</string>
+    <string name="developed_by">"Game&#160;developed&#160;by:\nArkadiusz&#160;Roussau"</string>
+    <string name="graphics_by">"Graphics&#160;by:\nKenney&#160;Vleugels"</string>
+    <string name="play_button">PLAY</string>
+    <string name="credits_button">CREDITS</string>
+    <string name="try_again_button">Try Again</string>
+    <string name="game_over">GAME OVER</string>
+</resources>
